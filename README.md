@@ -1,16 +1,20 @@
-# site-resultados-loteria
-
-### Site de Resultados da Loteria
+# Site de Resultados da Loteria
 
 ### O que funciona
-- Foi feito uma página inicial com todos os jogos de loteria disponíveis para consulta.
-- Cada jogo tem em seu botão uma cor personalizada.
+- Foi feito uma página para cada jogo de loteria com os resultados atualizados, usando o React para construí-lo.
+- Este projeto foi uma resolução do seguinte teste feito pela Brainn: https://github.com/brainnco-exs/readme-frontend
 
-### O que não funciona
-- As funções são muito básicas de HTML e CSS, e as páginas dos jogos não existem.
+### O que deve ser melhorado
+- O design das cores, no canto esquerdo, página não saiu do jeito que eu esperava, bem como não apareceu a data do concurso relacionado.
+
+### Tecnologias utilizadas
+- React
+- Axios
+- Moment
+- Styled-components
 
 ### Link Surge 
-https://mute-room.surge.sh
+https://abashed-attack.surge.sh/
 
 ### Imagens
-![print1](https://user-images.githubusercontent.com/89365251/185229268-958d729c-0c72-44b9-b5a8-0f4fbad18e7f.png)
+
